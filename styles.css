@@ -1,0 +1,73 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to bottom, #e8f5e9, #dff0d8);
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #28a745;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+    color: #fff;
+}
+header p {
+    margin: 5px 0 0;
+    color: #d4edda;
+}
+.hero {
+    text-align: center;
+    padding: 50px 20px;
+    background: url('https://i.imgur.com/4AiXzf8.png') no-repeat center;
+    background-size: cover;
+    color: white;
+}
+.hero h2 {
+    font-size: 2em;
+    text-shadow: 1px 1px 5px #000;
+}
+.hero button {
+    background-color: #28a745;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    margin-top: 10px;
+    border-radius: 5px;
+    font-size: 1em;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+}
+.hero button:hover {
+    background-color: #218838;
+    transform: scale(1.1);
+}
+.content {
+    padding: 20px;
+}
+.section {
+    margin-bottom: 30px;
+    background: #fff;
+    border: 2px solid #28a745;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+.chart h3 {
+    color: #155724;
+    text-align: center;
+}
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #155724;
+    color: white;
+    font-size: 0.9em;
+}
+footer p {
+    margin: 0;
+    color: #d4edda;
+}
