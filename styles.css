@@ -17,14 +17,14 @@ header h1 {
 }
 header p {
     margin: 5px 0 0;
-    color: #d4edda;
+    color: #ffffff;
 }
 .hero {
     text-align: center;
-    padding: 50px 20px;
-    background: url('https://i.imgur.com/4AiXzf8.png') no-repeat center;
+    padding: 150px 20px;
+    background: url('https://raw.githubusercontent.com/J-Whit/usdogeindex/refs/heads/main/b37f7705-a167-4d09-985f-288a8fdc4fcf.webp?token=GHSAT0AAAAAACN7XL63CXJ6KVPU3JQHDL3MZ4DAJYQ') no-repeat center;
     background-size: cover;
-    color: white;
+    
 }
 .hero h2 {
     font-size: 2em;
